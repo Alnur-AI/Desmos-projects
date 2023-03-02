@@ -7,7 +7,7 @@ There is all links on my personal desmos projects
   
   ![Result](./myAnimation.gif "Results")
 
-  Link: [https://www.desmos.com/calculator/6ed1mwqiet](click)
+  [Link Text](https://www.desmos.com/calculator/6ed1mwqiet)
 
 ## Physics section
 
