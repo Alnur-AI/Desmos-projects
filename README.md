@@ -13,7 +13,7 @@ There is all links on my personal desmos projects
 
   ### Project 2: Ellipse under the influence of gravity
 
-  ![Result](./Ell_un_grav.MP4 "Results")
+  ![Result](./Ell_un_grav.gif "Results")
   
   [Click here to see the graph](https://www.desmos.com/calculator/shxjzjg0fj)
 
