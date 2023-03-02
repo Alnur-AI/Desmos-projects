@@ -40,9 +40,28 @@ There is all links on my personal desmos projects
   Link: https://www.desmos.com/calculator/blmahpkmdr?lang=ru
 
 
+## Drawing section
 
+  ### Project 9: Madara + Sasuke EMS
+  https://www.desmos.com/calculator/bd5ffn5xdp
+  
+  ### Project 10: Madara EMS
+  https://www.desmos.com/calculator/co07ensmfq
+  
+  ### Project 11: Sasuke EMS
+  https://www.desmos.com/calculator/mltktm9vqx
+  
+  ### Project 12: Izuna MS
+  https://www.desmos.com/calculator/smp78kykky
+  
+  ### Project 13: Madara MS
+  https://www.desmos.com/calculator/yzmuu5g8a4
+  
+  ### Project 14: Shisui MS
+  https://www.desmos.com/calculator/xa42ytbxkz
 
-
+  ### Project 15: Sasuke MS
+  https://www.desmos.com/calculator/psgkk879p7?lang=ru
 
 
 
