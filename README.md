@@ -4,8 +4,10 @@ There is all links on my personal desmos projects
 ## Calculus section
 
   ### Project 1: Illustration of transformation (x,y) point that lies on circle to differentiable complex functon 
+  
+  ![Result](./myAnimation.gif "Results")
 
-  Link: [https://www.desmos.com/calculator/6ed1mwqiet](https://www.desmos.com/calculator/6ed1mwqiet)
+  Link: [https://www.desmos.com/calculator/6ed1mwqiet](click)
 
 ## Physics section
 
