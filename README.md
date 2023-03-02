@@ -60,43 +60,43 @@ There is all links on my personal desmos projects
 
   ### Project 9: Madara + Sasuke EMS
   
-  ![Result](./MadaraSasukeEMS.gif "Results")
+  ![Result](./MadaraSasukeEMS.jpeg "Results")
   
   [Click here to see the graph](https://www.desmos.com/calculator/bd5ffn5xdp)
   
   ### Project 10: Madara EMS
   
-  ![Result](./MadaraEMS.gif "Results")
+  ![Result](./MadaraEMS.jpeg "Results")
   
   [Click here to see the graph](https://www.desmos.com/calculator/co07ensmfq)
   
   ### Project 11: Sasuke EMS
   
-  ![Result](./SasukeEMS.gif "Results")
+  ![Result](./SasukeEMS.jpeg "Results")
   
   [Click here to see the graph](https://www.desmos.com/calculator/mltktm9vqx)
   
   ### Project 12: Izuna MS
   
-  ![Result](./IzunaMS.gif "Results")
+  ![Result](./IzunaMS.jpeg "Results")
   
   [Click here to see the graph](https://www.desmos.com/calculator/smp78kykky)
   
   ### Project 13: Madara MS
   
-  ![Result](./MadaraMS.gif "Results")
+  ![Result](./MadaraMS.jpeg "Results")
   
   [Click here to see the graph](https://www.desmos.com/calculator/yzmuu5g8a4)
   
   ### Project 14: Shisui MS
   
-  ![Result](./ShisuiMS.gif "Results")
+  ![Result](./ShisuiMS.jpeg "Results")
   
   [Click here to see the graph](https://www.desmos.com/calculator/xa42ytbxkz)
 
   ### Project 15: Sasuke MS
   
-  ![Result](./SasukeMS.gif "Results")
+  ![Result](./SasukeMS.jpeg "Results")
   
   [Click here to see the graph](https://www.desmos.com/calculator/psgkk879p7)
 
